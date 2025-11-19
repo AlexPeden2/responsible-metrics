@@ -3,27 +3,30 @@ title: "Section 3"
 format: html
 ---
 
-## **Section 3 -** Using metrics in personal applications and evaluations
+### Using metrics responsibly in personal applications or evaluations
 
 This section is designed for: 
 
--   anyone who is interested in understanding author metrics;
--   anyone who is applying for job roles, promotion cycles or applying for funding/grant applications where research may be used as an assessment tool.
+-   anyone who is applying for a job or promotion where research metrics have been requested as part of an application 
+-   anyone who is applying for research funding or an award where research metrics have been requested as part of an application
+-   anyone who is reviewing or assessing applications for jobs, promotions, funding or awards
+-   anyone who is interested in understanding responsible research assessment and responsible use of research metrics
 
 In this section you will explore: 
 
--   metrics in the context of individual research;
+-   what you can do if you've been asked to include metrics in an application
+-   what you can do if you've been asked to review metrics as part of an assessment process
 -   sources of metrics;
 -   limitation of metrics;
 -   guidance on how to use metrics.
 
-### Introduction to section
+### What do I do if I've been asked to include metrics in an application?
 
-Metrics are a quantitative snapshot (i.e. indicators) of how some of your research outputs have performed.  
+Metrics can provide a quantitative snapshot of aspects of a research output, or a group of research outputs.  
 
-While your research output is a significant contribution, it's only a part of your broader role as a researcher. Your knowledge of your contribution to your research area is greater than a snapshot list of numbers.  
+The production of a research output is a core part of the research lifecycle. However, it's only a part of that lifecycle, and of your broader role as a researcher and academic. Your knowledge of, and your contribution to, your research area is more comprehensive, complex and nuanced than a simple number or list of outputs.  
 
-If you haven’t been asked to provide metrics, and if you can evidence the impact or your contribution without using metrics, you don’t have to use them. Metrics do not supersede your expert opinion and knowledge of your research contribution. Instead, a narrative approach may be better able to give the full breadth of your contribution as a researcher. The only time you have to use metrics is if the assessment panel asks you to provide them. 
+If you haven’t been asked to provide metrics as part of an application process we suggest you don't provide them. Metrics don't supersede your expert opinion and knowledge of your research contribution. Instead, a narrative approach may be better able to give the full breadth of your contribution to the research, and your contribution as a research. The only time you have to use metrics is if the assessment process asks you to provide them, and you can always ask if this is neccessary and offer another route to providing the same information.
 
 ### **How to get metrics if you need them** 
 
