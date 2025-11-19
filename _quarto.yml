@@ -10,7 +10,7 @@ project:
     - about.qmd
 
 website:
-  title: "Responsible Research Metrics Self Study Module"
+  title: "Responsible Research Assessment and Use of Research Metrics Quick Guide"
   repo-url: "https://github.com/UniSotonLibrary/responsible-metrics/"
   repo-branch: main
   repo-actions:
@@ -48,7 +48,7 @@ website:
         
   back-to-top-navigation: true
   page-navigation: true  
-  page-footer: "Created by the Kate Lapage, Clare Hemmings and Lorrayne Smith @ University of Southampton Library shared under a CC BY licence"
+  page-footer: "Adapted by Alex Peden, University of Edinburgh from a module developed by Kate Lapage, Clare Hemmings and Lorrayne Smith @ University of Southampton Library and shared under a CC BY licence"
       
 format:
   html:
