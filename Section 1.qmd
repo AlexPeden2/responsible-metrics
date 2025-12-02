@@ -3,13 +3,36 @@ title: "Section 1"
 format: html
 ---
 
-## Section 1 - Responsible research metrics overview
+## Responsible research assessment overview
 
 In this first section you will explore:
 
--   what metrics are in the context of research;
--   the principles of responsible use of research metrics;
--   guidelines around the responsible use of metrics.
+-   what is research assessment?
+-   why is responsible research assessment important?
+
+### **What is research assessment?**
+
+Research assessment is any process where you are making a judgement on the quality, significance or impact of research conducted by an individual or groups of individuals, or institution.  This could be during recruitment, annual review, promotion or redundancy processes, while reviewing proposals for funders, or during internal REF preparations or REF panels.
+
+### **Why is responsible research assessment important?**
+
+Research metrics, or bibliometrics, represent the quantification of publications and their characteristics.  They are a prominent feature of our research eco-system including in research assessment processes.  
+
+When used appropriately metrics can provide valuable insights into aspects of research output. Unfortunately, research metrics are often used uncritically which can cause problems for researchers and research.
+
+Many research metrics have become a shorthand for research quality, but they aren't based on the quality of the actual research itself.  They are a feature of who funded the research, or where it was published, or how many other people are researching a topic.  It isn't always clear how these metrics have been calculated or what each metric actually represents to most people.
+
+Relying on research metrics to make decisions about individuals and their research isn't fair to the individual, or the work undertaken to produce the research, and can cause us to overlook important or impactful work.  There is evidence that inappropriate use of metrics has influenced our research cultures negatively.
+
+Making sure peer-review is fore-most in our assessment of research and researchers is a route to undertaking responsible research assessment and improving our research cultures.
+
+## Responsible use of research metrics overview
+
+In this section you will explore:
+
+-   what are research metrics?
+-   the principles of responsible use of research metrics
+-   guidelines for the responsible use of research metrics
 
 ### **What are research metrics?**
 
@@ -21,7 +44,7 @@ When using metrics it is important to have a question you are trying to answer s
 
 Using the wrong metric can have real world implications, from making false claims to causing reputational harm, which could impact future career ambitions or cause institutional damage.
 
-### **Principles of responsible metrics**
+### **Principles of responsible use of metrics**
 
 As research disciplines and outputs are so varied there is no set step-by-step guide to carrying out an analysis. Instead, there are a set of principles that should be followed[:]{.underline} Transparency, Appropriateness, Equality, Reproducible, and Continual Reassessment.
 
