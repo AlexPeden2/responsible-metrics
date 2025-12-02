@@ -7,8 +7,9 @@ format: html
 
 In this first section you will explore:
 
--   what is research assessment?
--   why is responsible research assessment important?
+-   What is research assessment?
+-   Why is responsible research assessment important?
+-   International collaborations to improve research assessment
 
 ### **What is research assessment?**
 
@@ -28,9 +29,11 @@ Making sure peer-review is fore-most in our assessment of research and researche
 
 ### **International collaborations to improve research assessment**
 
-There are several international collaborations aiming to improve research assessment and encourage researchers and institutions to reflect on how they use research metrics in these processes.  The University has outlined its approach in its [statement on responsible metrics use of research metrics](https://www.ed.ac.uk/sites/default/files/2025-02/Responsible%20Research%20Metrics%20Statement.pdf){target="_blank"} which states our commitment to the principles of DORA and the Leiden Manifesto (<https://doi.org/10.1038/520429a>). Below are summaries of three key international initiatives: 
+There are several international collaborations aiming to improve research assessment and encourage researchers and institutions to reflect on how they use research metrics in these processes.  The University has outlined its approach in its [statement on responsible metrics use of research metrics](https://www.ed.ac.uk/sites/default/files/2025-02/Responsible%20Research%20Metrics%20Statement.pdf){target="_blank"} which states our commitment to the principles of DORA, CoARA and the [Leiden Manifesto](<https://doi.org/10.1038/520429a>){target="_blank"}. 
 
-[**DORA (the Declaration of Research Assessment)**](https://sfdora.org/read/){target="_blank"} 
+Below are summaries of two key international initiatives Univeristy of Edinburgh is a signatory of: 
+
+[**DORA: Declaration of Research Assessment**](https://sfdora.org/about-dora/){target="_blank"} 
 
 DORA is a set of principles for responsible research assessment that were published in 2012. They are designed to ensure that the quality and impact of research outputs are “measured accurately and evaluated wisely”.
 
@@ -38,7 +41,7 @@ DORA focuses particularly on the use of journal-based metrics. Its key tenet is 
 
 DORA also supports the idea that research should be assessed on its own merits and not influenced by the reputation of the journal in which it has been published. 
 
-[**CoARA (Coalition of Advancing Research Assessment)**](https://coara.eu/app/uploads/2022/09/2022_07_19_rra_agreement_final.pdf){target="_blank"} 
+[**CoARA: Coalition for Advancing Research Assessment**](https://www.coara.org/){target="_blank"} 
 
 The CoARA initiative was launched in January 2022 and builds on DORA and other initiatives. Its core principle is "that in the assessment of research, researchers and research organisations needs to recognise that diverse outputs, practices and activities contribute to the quality and impact of research. This requires basing assessment primarily on qualitative judgement for which peer review is central, supported by the responsible use of quantitative indicators" (metrics). 
 
