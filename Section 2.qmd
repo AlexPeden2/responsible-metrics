@@ -55,17 +55,7 @@ Research metrics should be appropriately normalised using an established method 
 
 Those being assessed should have the opportunity to provide context on their own track record to communicate their career path, career breaks, work pattern or any other relvant factors.
 
-
-
-Thank you for taking the time to complete this section of the course.
-
-### **What’s next?**
-
-Complete further sections
-
--   Section 3 - Using metrics in research assessment.
--   Section 4 - Using metrics in personal applications and evaluations.
--   Section 5 - Assessing people using metrics.
+### **Further reading**
 
 Read the [University statement on responsible use of research metrics](https://www.ed.ac.uk/sites/default/files/2025-05/Responsible%20Research%20Metrics%20Statement%20May%202025.pdf){target="_blank"}
 
@@ -79,3 +69,14 @@ Further Resources:
 
 -   Deakin Library Metrics Toolkit: [https://deakin.libguides.com/research-metrics/about](https://deakin.libguides.com/research-metrics/about){target="_blank"}.
 -   What are Responsible Metrics by University of Exeter (4 minute Youtube video): [https://www.youtube.com/watch?v=kTYb623Slg4](https://www.youtube.com/watch?v=kTYb623Slg4){target="_blank"}.
+
+
+Thank you for taking the time to complete this section of the course.
+
+### **What’s next?**
+
+Complete further sections
+
+-   Section 3 - Using metrics in research assessment.
+-   Section 4 - Using metrics in personal applications and evaluations.
+-   Section 5 - Assessing people using metrics.
