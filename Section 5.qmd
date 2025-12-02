@@ -1,9 +1,9 @@
 ---
-title: "Section 4"
+title: "Section 5"
 format: html
 ---
 
-## **Section 4 -** Assessing people using metrics
+## Assessing people using metrics
 
 This section is designed for:
 
