@@ -5,11 +5,6 @@ format: html
 
 ## Assessing people using metrics
 
-This section is designed for:
-
--   anyone interested in how author metrics contribute to research assessment;
--   anyone who undertakes or supports recruitment activities, promotion cycles or funding/grants applications where author metrics may be used as an assessment tool.
-
 In this section you will explore:
 
 -   how to use metrics in your assessment;
