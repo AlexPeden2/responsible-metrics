@@ -7,9 +7,9 @@ format: html
 
 In this section you will explore:
 
--   what are research metrics?
--   the principles of responsible use of research metrics
--   guidelines for the responsible use of research metrics
+-   What are research metrics?
+-   Principles of responsible use of research metrics
+-   Further reading
 
 ### **What are research metrics?**
 
