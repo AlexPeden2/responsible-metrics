@@ -1,3 +1,8 @@
+---
+title: "Section 2"
+format: html
+---
+
 ## Responsible use of research metrics overview
 
 In this section you will explore:
