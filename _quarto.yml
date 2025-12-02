@@ -7,6 +7,7 @@ project:
     - Section 2.qmd
     - Section 3.qmd
     - Section 4.qmd
+    - Section 5.qmd
     - about.qmd
 
 website:
@@ -27,6 +28,7 @@ website:
       - Section 2.qmd
       - Section 3.qmd
       - Section 4.qmd
+      - Section 5.qmd
       - about.qmd
   
   sidebar: 
@@ -43,6 +45,8 @@ website:
         text: "Section 3"
       - href: Section 4.qmd
         text: "Section 4"
+      - href: Section 5.qmd
+        text: "Section 5"
       - href: about.qmd
         text: "About"
         
