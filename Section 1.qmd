@@ -3,7 +3,7 @@ title: "Section 1"
 format: html
 ---
 
-## Responsible research assessment overview
+## Responsible research assessment: Overview
 
 In this first section you will explore:
 
