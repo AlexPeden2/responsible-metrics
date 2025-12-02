@@ -13,13 +13,22 @@ In this section you will explore:
 
 ### **What are research metrics?**
 
-Research metrics are usually quantitative data that describe an aspect of a research output at a particular time. A research output is anything which disseminates research; a journal article, a book, an exhibition, dataset or software. There are many different metrics each attempting to describe a different aspect of research. Metrics can look at one indiviudal research output, at all the outputs from a single researcher, or at the entire output of a department or University. Other metrics describe features of a publication venue, such as a journal. The majority of metrics primarily focus on research journal articles but there are metrics available for other research output types.
+Research metrics are usually quantitative data that describe an aspect of a research output at a particular time. A research output is anything which disseminates research; a journal article, a book, an exhibition, dataset or software. 
+
+There are many different metrics each attempting to describe a different aspect of research. Metrics can look at one indiviudal research output, at all the outputs from a single researcher, or at the entire output of a department or University. Other metrics describe features of a publication venue, such as a journal. The majority of metrics primarily focus on research journal articles but there are metrics available for other research output types.
 
 When engaging with research metrics its important to focus on the question you are trying to answer, or the information you are trying to convey, so you can decide if using metrics will be useful or not.
 
 ### **Principles for responsible use of metrics**
 
-As research disciplines, research practices, research outputs and the information that needs to be conveyed are infinitely variable, there isn't one approach to engaging with metrics that can be applied universally. In all research assessment the University expects that a transparent set of both qualitative and quantitative information is used to support and inform expert human academic judgement. You will need to consider what is appropriate for the assessment you are making, and follow these principles[:]{.underline} Be Transparent, Communicate your Evaluation Methods, Ensure Suitability and Contextualise.
+As research disciplines, research practices, research outputs and the information that needs to be conveyed are infinitely variable, there isn't one approach to engaging with metrics that can be applied universally. In all research assessment the University expects that a transparent set of both qualitative and quantitative information is used to support and inform expert human academic judgement. 
+
+You will need to consider what is appropriate for the assessment you are making, and follow these principles: 
+
+-   Be Transparent, 
+-   Communicate your Evaluation Methods, 
+-   Ensure Suitability and 
+-   Contextualise.
 
 #### **Be Transparent** 
 
@@ -34,14 +43,14 @@ If you decide to use metrics, consider:
 
 #### **Communicate your Evaluation Method** 
 
-Those leading assessment processes must ensure that the evaluation process, including any additional information to be used not provided by the candidate, is clearly communicated in advance to those being assessed.  Any quantitative indicator that will be used from either internal or external sources should be communicated, accessible, validatable and open to scrutiny.
+Those leading assessment processes must ensure that the evaluation process, including any additional information to be used not provided by the candidate, is clearly communicated in advance to those being assessed.  Any quantitative indicator that will be used from either internal or external sources should be communicated, accessible, validatable and open to scrutiny by those being assessed.
 
 #### **Suitability** 
 
-When assessing a person, research metrics should not be used as the sole source of information. Metrics should only be used when necessary and should be used in conjunction with qualitative information (e.g. expert testimony or a narrative description of the significance of a research output) rather than in isolation. Use a basket of metrics rather than focusing on one data type.
+When assessing a person, research metrics should not be used as the sole source of information. Metrics should only be used when necessary and should be used in conjunction with qualitative information (e.g. expert testimony or a narrative description of the significance of a research output). Use a 'basket of metrics' rather than focusing on one data type.
 
 Be aware that individuals are unlikely to be directly comparable due to their career path or circumstances. e.g. length of career, career breaks, part-time working, personal circumstances
--   E.g. you should not compare an early career researcher with a researcher who has 20 years of experience unless you have restricted the comparison to a suitable time frame. 
+-   E.g. you should not compare an early career researcher with a researcher who has a 20 year track record in academic research
 
 You should avoid using metrics to make comparisons across diverse groups of individuals
 -   i.e. don't use one metric to compare across different research disciplines, if you are comparing across similar sub-disciplines use a normalised metric (e.g. field weighted citation impact)
