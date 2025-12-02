@@ -5,13 +5,6 @@ format: html
 
 ## Using metrics responsibly in personal applications or evaluations
 
-This section is designed for: 
-
--   anyone who is applying for a job or promotion where research metrics have been requested as part of an application 
--   anyone who is applying for research funding or an award where research metrics have been requested as part of an application
--   anyone who is reviewing or assessing applications for jobs, promotions, funding or awards
--   anyone who is interested in understanding responsible research assessment and responsible use of research metrics
-
 In this section you will explore: 
 
 -   What you can do if you've been asked to include metrics in an application
