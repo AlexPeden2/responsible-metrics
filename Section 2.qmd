@@ -55,39 +55,7 @@ Research metrics should be appropriately normalised using an established method 
 
 Those being assessed should have the opportunity to provide context on their own track record to communicate their career path, career breaks, work pattern or any other relvant factors.
 
-### **Guidelines around metrics**
 
-A number of guidelines have been published which look to shape our approach to responsible metrics.  The University has its own [responsible metrics policy](https://www.southampton.ac.uk/about/governance/regulations-policies/policies/responsible-research-metrics){target="_blank"} which is based on the principles of DORA and the Leiden Manifesto (<https://doi.org/10.1038/520429a>). Below are summaries of three key international initiatives, each of which advise on a different aspect: 
-
-[**DORA (the Declaration of Research Assessment)**](https://sfdora.org/read/){target="_blank"} 
-
-DORA is a set of principles that were published in 2012. They are designed to ensure that the quality and impact of scientific outputs is “measured accurately and evaluated wisely”.
-
-DORA focuses particularly on the use of journal-based metrics. Its key tenet is to “do not use journal-based metrics, such as Journal Impact Factors (JIFs), as surrogate measures of the quality of individual research articles, to assess an individual scientist’s contributions, or in hiring, promotion, or funding decisions”. 
-
-DORA also supports the idea that research should be assessed on its own merits and not influenced by the reputation of the journal in which it has been published. 
-
-[**CoARA (Coalition of Advancing Research Assessment)**](https://coara.eu/app/uploads/2022/09/2022_07_19_rra_agreement_final.pdf){target="_blank"} 
-
-The CoARA initiative was launched in January 2022 and builds on DORA and other initiatives. Its core principle is "that in the assessment of research, researchers and research organisations needs to recognise that diverse outputs, practices and activities contribute to the quality and impact of research. This requires basing assessment primarily on qualitative judgement for which peer review is central, supported by the responsible use of quantitative indicators" (metrics). 
-
-The University of Edinburgh is a signatory of, and committed to, both DORA and CoARA.
-
-[**Barcelona Declaration on Open Research Information**](https://barcelona-declaration.org/){target="_blank"} 
-
-Launched in April 2024, the Barcelona Declaration has the backing of research and funding organisations who have endorsed its commitment to “make openness the default for the research information we use and produce”. 
-
-One of its central recommendations is that we should move away from the use of closed and commercial data sources and work towards services and systems that support and enable research information which is open. These open tools should then give access to metrics that have greater transparency and reproducibility. 
-
-### **Where might you see metrics used?**
-
-Metrics are used in a wide range of activities such as:
-
--   research assessment;
--   grant applications;
--   recruitment;
--   promotion;
--   league tables, such as QS.
 
 Thank you for taking the time to complete this section of the course.
 
@@ -95,9 +63,9 @@ Thank you for taking the time to complete this section of the course.
 
 Complete further sections
 
--   Section 2 - Using metrics in research assessment.
--   Section 3 - Using metrics in personal applications and evaluations.
--   Section 4 - Assessing people using metrics.
+-   Section 3 - Using metrics in research assessment.
+-   Section 4 - Using metrics in personal applications and evaluations.
+-   Section 5 - Assessing people using metrics.
 
 Read the [University statement on responsible use of research metrics](https://www.ed.ac.uk/sites/default/files/2025-05/Responsible%20Research%20Metrics%20Statement%20May%202025.pdf){target="_blank"}
 
