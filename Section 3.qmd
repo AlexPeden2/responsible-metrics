@@ -3,17 +3,17 @@ title: "Section 3"
 format: html
 ---
 
-## Using metrics in research assessment
+## Using metrics responsibly in research assessment
 
 This section is designed for:
 
--   anyone who is interested in how metrics contribute to research assessment;
--   anyone who is involved in assessing research where metrics may be used as an assessment tool.
+-   anyone who is interested in how research metrics can contribute to responsible research assessment
+-   anyone who is involved in assessing research where metrics may be used as an assessment tool
 
 In this this section you will explore:
 
--   guidance on how to use metrics in research assessment;
--   an example question.
+-   guidance on how to use metrics responsibly in research assessment
+-   an example question
 
 ### Assessing Research Using Metrics
 
@@ -21,18 +21,18 @@ When you are assessing research using metrics you must have a question that you 
 
 When you have your question or task, you should break down into the following questions:
 
--   What do I need to find out?​
+-   What do I want to understand?​
 -   How will I use the data?​
 -   How do I need to present the results?​
 -   Do I need to use a specific source?​
 -   When is it required by? 
 -   What are the limitations of my data?
 
-**What do I need to find out?​**
+**What do I want to understand?​**
 
-First of all you need to think carefully about what it is you are trying to assess.
+First of all you need to think carefully about what it is you are trying to understand, what is the question you are trying to answer, then which information might help you to do that and where in an assessment process it would be most useful to request that from applicants.
 
-Once you have established this, the next stage is to identify which type of metrics and sources should be used to carry out the assessment.
+Once you have established this, the next stage is to identify which type of information will help you make a decision.  You can ask people to provide this information in their application, and if you decide research metrics might be useful you can identify sources of data that could be helpful.
 
 **How will I use the data?​**
 
