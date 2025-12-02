@@ -1,9 +1,9 @@
 ---
-title: "Section 2"
+title: "Section 3"
 format: html
 ---
 
-## Section 2 - Using metrics in research assessment
+## Using metrics in research assessment
 
 This section is designed for:
 
