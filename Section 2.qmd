@@ -26,11 +26,11 @@ As research disciplines, research practices, research outputs and the informatio
 Provide clear information on how any quantitative data will be used in decision making, how that data will be validated or checked by those being assessed, and how the data will be supported by qualitative informtion.
 Transparency in the use of research metrics means having an explanation in clear, simple language to ensure end-users understand the data used, its reliability and its limitations. 
 
-If you decide to use metrics
--   What metrics will be used? Can you apply these across your whole analysis/candidate pool? (if not you shouldn't use these metrics)
--   Where did the data come from (sources)? 
--   When was the data extracted? – any metric represents a data point in time, citations will continue to accumulate after the metric is extracted so the date of extraction needs to be consistent
--   How will the metrics be supported by qualitative information?
+If you decide to use metrics, consider:
+
+-   What metrics will be used? Can you apply these across your whole analysis or candidate pool? (if you can't, you shouldn't use these metrics)
+-   Where did the data come from? When was the data extracted? (data should come from the same sources on a similar date, particularly if you plan to compare any aspect.  Citations accrue all the time so different       extraction dates can undermine comparison)
+-   How will your chosen metrics be support by qualitative information? 
 
 #### **Communicate your Evaluation Method** 
 
