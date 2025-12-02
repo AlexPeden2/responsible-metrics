@@ -14,11 +14,11 @@ This section is designed for: 
 
 In this section you will explore: 
 
--   what you can do if you've been asked to include metrics in an application
--   what you can do if you've been asked to review metrics as part of an assessment process
--   sources of metrics;
--   limitation of metrics;
--   guidance on how to use metrics.
+-   What you can do if you've been asked to include metrics in an application
+-   What you can do if you've been asked to review metrics as part of an assessment process
+-   How to get metrics if you need them
+-   Limitation of metrics
+-   Guidance on how to use metrics
 
 ### What do I do if I've been asked to include metrics in an application?
 
@@ -27,6 +27,12 @@ Metrics can provide a quantitative snapshot of aspects of a research output, or 
 The production of a research output is a core part of the research lifecycle. However, it's only a part of that lifecycle, and of your broader role as a researcher and academic. Your knowledge of, and your contribution to, your research area is more comprehensive, complex and nuanced than a simple number or list of outputs.  
 
 If you haven’t been asked to provide metrics as part of an application process we suggest you don't provide them. Metrics don't supersede your expert opinion and knowledge of your research contribution. Instead, a narrative approach may be better able to give the full breadth of your contribution to the research, and your contribution as a research. The only time you have to use metrics is if the assessment process asks you to provide them, and you can always ask if this is neccessary and offer another route to providing the same information.
+
+### What do I do if I've been asked to review metrics as part of an application?
+
+If you are asked to judge or review metrics as part of a peer review process for a funder, or as part of a recruitment or promotion process for another university, you can use the text below as a response rather than participating in that aspect of the assessment.
+
+“The University of Edinburgh supports responsible research assessment and is a signatory of DORA and CoARA, therefore I am not able to comment on this aspect of the application”
 
 ### **How to get metrics if you need them** 
 
@@ -46,59 +52,53 @@ Contact the [metrics service](https://library.soton.ac.uk/bibliometrics/services
 
 ### **Limitations of Metrics** 
 
--   Not all research outputs will be indexed
-    -   Typically journal articles and some books may be indexed.
-    -   STEM journals are more likely to be indexed than Arts, Humanities and Social Sciences.
-    -   Smaller publishers may not index their journals.
-    -   It can take up to six months from publication for your article to be indexed (sometimes even longer!).
-    -   Content may have been wrongly affiliated to you or your content wrongly affiliated to someone else.
--   Citations take a long time to accumulate.
+-   Not all research outputs will be indexed and therefore may not be included in metrics, or have metrics associated with them
+    -   Typically most journal articles are indexed, and some books may be indexed
+    -   STEM journals are more likely to be indexed than journals publishing Arts, Humanities and Social Sciences research
+    -   Smaller publishers may not index their journals
+    -   It can take up to six months from publication for your article to be indexed (sometimes even longer!)
+    -   Content may have been wrongly affiliated to you or your content wrongly affiliated to someone else
+-   Citations take a long time to accumulate
 -   There is no way of knowing if citations are positive or negative from metrics. Note, some services do perform sentiment analysis on citations.
 
-### **Ways you could use metrics** 
+### **Using metrics as supporting evidence** 
 
--   You could use metrics to evidence statements you make about your research.
--   You may be asked to provide a list such as your 'top' or 'best' papers.
+-   You could use metrics to evidence statements you make about your research
+-   You may be asked to identify your 'top' or 'best' papers
 
-If you use metrics you need to use them responsibly.  There are many different metrics, for many different purposes, from many different sources.  When you make your assessment you should use the most appropriate metric according to your needs. Below you'll find examples (both good and bad) of how some of these metrics could be used to make statements about your research.
+If you use metrics you need to use them responsibly.  There are many different metrics, for many different purposes, from many different sources.  You should use the most appropriate metric according to your needs. Below you'll find examples (both poor and better) of how metrics could be used to support statements about your research.  If you aren't asked to provide metrics in an application we suggest you don't provide them, include a narrative statement to explain the significance and reach of your work.
 
 ### **Examples** 
 
-**Example of bad use** 
+**Example of poor use** 
 
 *I publish in top journals* 
 
-Why this is bad – there is no context. It is vague. It is equating the quality of your research with the quality of the journal. 
+Why this is bad? There's no context and it's a vague statement. It is equating the quality of your individual research output with the overall quality of the whole journal's catalogue. 
 
-**Example of good use** 
+**Example of better use** 
 
-*\[citation of paper\] is my top performing paper which according to \[source such as Scopus or Google Scholar\] has been cited 150 times. It has been cited by \[policy document\]*  
+*\[citation of paper\] is my most highly cited paper which according to \[source such as Scopus or Google Scholar\] has been cited 150 times. It has been cited by \[policy document\]*  
 
-Why this is better – there is a source identified and there are actual numbers, there is an idea of age of the paper from the citation, and you’ve demonstrated real world impact.  
+Why this is better? The statement is specific. There is a source identified and there is a metric that is verifiable. You’ve provided a link to a publication that demonstrates some of the impact the research has had.  
 
-The statement could be made even better by stating the date you checked the number of citations, as metrics accumulate over time. You could use a normalised metric which is gives a fairer assessment rather than a binary count. You could also talk about your impact more. 
+The statement could be made even better by stating the date you checked the number of citations, as metrics accumulate over time. You could use a normalised metric (e.g. field weighted citation impact) which is gives a fairer assessment rather than a count. You could also talk about the impact of your research more. 
 
 **Example of best use**  
 
-*\[citation of paper\] is my top performing paper according to Scopus on \[date you checked\] it has been cited 150 times and has a field-weighted citation index of 4.3 (1 being average). It has been cited by \[policy document\]. Following its publication I have been asked by several news agencies to provide commentary on similar news stories thereby contributing to knowledge exchange and public engagement.*  
+*\[citation of paper\] is my top performing paper according to Scopus on \[date you checked\] it has been cited 150 times and has a field-weighted citation index of 4.3 (1 being average). It has been cited by \[policy document\]. Following its publication I was invited to join a government working group to explore improving government policy in this area.*  
 
-Why this is good – You’ve given a source and date for your metrics, you've used multiple metrices and you’ve used a normalised metric which makes for a fairer comparison. You’ve related your article to real world impact and engagement. 
+Why this is good – You’ve given a source and date for your metrics, you've used multiple metrices and you’ve used a normalised metric which makes for a fairer comparison. You’ve explained that your output has led to impact. 
 
-### **How to – Identifying your 'best' publications** 
+### **How to identify your 'best' publications** 
 
-A common question we see is authors asking for help creating a list of their 'best' research publications. How you quantify best will depend on the context of what you are applying for, your discipline, and what the assessor has asked for.
+A common question we see is authors asking for help creating a list of their 'best' research publications. How you quantify 'best' will depend on the context of what you are applying for, your discipline, and what the assessor has asked for.  A more useful way to consider this questions could be to identify your "most significant" research output.
 
-Some will argue that 'best' means the highest cited, but that automatically puts your newest papers at a disadvantage, as citations take time to accumulate. Some will say 'best' is most impactful which can be harder to prove. If it hasn't been defined for you by the people making the assessment, it is important to state how you have defined best and then use relevant evidence.
+It can be useful to identify 3-5 research outputs and annotate them in your publication list emphasising your contribution to the research, and any academic or broader impact the research has had.
 
-So, how could you evidence your 'best' publications? 
-
--   List of articles and their citation count – this favours your older papers.
--   Normalised metrics such as field-weighted citation index– this gives your newer content a fairer chance against older content.
--   Altmetrics – metrics derived from alternative types of research output, such as citations or acknowledgements on a public-facing website, social media engagement, or attention from the news media are particularly useful when assessing impact.
--   Policy citations – has your research been used in government policy? 
--   Patent citations – has your research been used by someone filing a patent? 
-
-When using metrics to assess research or during an application you should approach your task with as much rigour and mindfulness of methodology as you would when you undertake your own research practices. The answer you will get will depend on the questions you ask. It should be clear as to how you have come to your conclusions so that your analysis is rigorous and reproducible.
+Example
+Stagg HR, Zenner D, Harris RJ, Muñoz L, Lipman MC, Abubakar I. Treatment of Latent Tuberculosis: A Network Meta-Analysis. Annals of Internal Medicine (2014) 161(6):419-28. 
+"I intellectually conceived and conducted this work, extracted and reviewed the data, and wrote the majority of the paper. I attended a WHO expert panel to present this work, which led to its use as the scientific foundation for their global ‘Guidelines on the management of latent tuberculosis infection’, 2014 (which I contributed to the writing of) and an associated publication."
 
 Thank you for taking the time to complete this section of the course. If you need additional help and support with your own applications please contact the [metrics service](https://library.soton.ac.uk/bibliometrics/services){target="_blank"} for support.
 
@@ -106,7 +106,7 @@ Thank you for taking the time to complete this section of the course. If you nee
 
 Complete further sections
 
--   Section 4 - Assessing people using metrics - Section 4 is an optional part of this course for people who will take part in the assessment of people such as those on recruitment panels
+-   Section 5 - Assessing people using metrics - Section 4 is an optional part of this course for people who will take part in the assessment of people such as those on recruitment panels
 
 Test your [knowledge](https://forms.office.com/e/2wiFXSSLSG){target="_blank"}
 
