@@ -5,11 +5,6 @@ format: html
 
 ## Using metrics responsibly in research assessment
 
-This section is designed for:
-
--   anyone who is interested in how research metrics can contribute to responsible research assessment
--   anyone who is involved in assessing research where metrics may be used as an assessment tool
-
 In this this section you will explore:
 
 -   guidance on how to use metrics responsibly in research assessment
