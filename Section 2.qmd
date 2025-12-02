@@ -60,9 +60,9 @@ Each metric has a specific use, make sure you understand what the metric is tell
 
 #### **Contextualise** 
 
-Research metrics should be appropriately normalised using an established method (e.g. field-weighted citation impact) or presented with suitable context (e.g. research income range by discapline or sub-discapline).
+Research metrics should be appropriately normalised using an established method (e.g. field-weighted citation impact) or presented with suitable context (e.g. research income range by discipline or sub-discipline).
 
-Those being assessed should have the opportunity to provide context on their own track record to communicate their career path, career breaks, work pattern or any other relvant factors.
+Those being assessed should have the opportunity to provide context on their own track record to communicate their career path, career breaks, work pattern or any other relevant factors.
 
 ### **Further reading**
 
