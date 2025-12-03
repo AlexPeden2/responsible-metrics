@@ -69,12 +69,7 @@ Visit our [Responsible Research Assessment & Use of Metrics](https://www.ed.ac.u
 
 Visit our [Responsible Research Assessment & Use of Metrics](https://uoe.sharepoint.com/sites/Research_Cultures/SitePages/Responsible-Research-Assessment-&-Use-of-Metrics.aspx?csf=1&web=1&e=gpkXsz){target="_blank"} SharePoint site
 
-Specific question? Contact us at research.cultures@ed.ac.uk
-
-Further Resources:
-
--   Deakin Library Metrics Toolkit: [https://deakin.libguides.com/research-metrics/about](https://deakin.libguides.com/research-metrics/about){target="_blank"}.
--   What are Responsible Metrics by University of Exeter (4 minute Youtube video): [https://www.youtube.com/watch?v=kTYb623Slg4](https://www.youtube.com/watch?v=kTYb623Slg4){target="_blank"}.
+Specific question? Contact [research.cultures@ed.ac.uk](mailto:research.cultures@ed.ac.uk){target="_blank"}
 
 Thank you for taking the time to complete this section of the course.
 
