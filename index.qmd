@@ -12,4 +12,4 @@ This guide is designed for:
 -   Anyone assessing research or a research track record as part of peer review of outputs or proposals
 -   Anyone who is interested in how research can be assessed
 
-If you have any questions please contact Alex Peden, Head of Research Cultures via [research.cultures@ed.ac.uk](mailto:research.cultures@ed.ac.uk){target_blank}
+If you have any questions please contact Alex Peden, Head of Research Cultures via [research.cultures@ed.ac.uk](mailto:research.cultures@ed.ac.uk){target="_blank"} 
