@@ -85,12 +85,12 @@ A common question is authors asking for help creating a list of their 'best' res
 
 It can be useful to identify 3-5 research outputs and annotate them in your publication list emphasising your contribution to the research, the development of the output, and any academic or broader impact the research has had.
 
-Example of an annotation on a publication list
+
+**Example of an annotation on a publication list**
 
 Author A.N, Writer B.P, Researcher V.I, Scientist L.P. Treatment of Latent Infection: A Network Meta-Analysis. Annals of Medicine (2019) 424(8):419-28 
 
-*"I intellectually conceived and conducted this work, extracted and reviewed the data, and wrote the majority of the paper. I attended an international government expert panel to present this work, which led to its use as the scientific foundation for their global ‘Guidelines on the management of infection’, 2019 (which I contributed to the writing of) and an associated publication."
-*
+*"I intellectually conceived and conducted this work, extracted and reviewed the data, and wrote the majority of the paper. I attended an international government expert panel to present this work, which led to its use as the scientific foundation for their global ‘Guidelines on the management of infection’, 2019 (which I contributed to the writing of) and an associated publication."*
 
 Thank you for taking the time to complete this section of the course. If you need additional help and support with your own applications please contact the [metrics service](https://library.soton.ac.uk/bibliometrics/services){target="_blank"} for support.
 
