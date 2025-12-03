@@ -104,5 +104,5 @@ As you can see from this example, citation numbers don’t always give you the f
 
 Complete further sections
 
--   Section 4 - Assessing people responsibly using metrics
--   Section 5 - Using metrics responsibly in personal applications and evaluations
+-   Section 4 - Assessing people responsibly using research metrics
+-   Section 5 - Using metrics responsibly in personal applications or evaluations
