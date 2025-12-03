@@ -51,7 +51,7 @@ The University of Edinburgh is a signatory of, and committed to, both DORA and C
 
 Complete further sections
 
--   Section 2 - Responsible Use of Research Metrics
--   Section 3 - Using metrics in research assessment
--   Section 4 - Using metrics in personal applications and evaluations
--   Section 5 - Assessing people using metrics
+-   Section 2 - Responsible Use of Research Metrics: Overview
+-   Section 3 - Using metrics responsibly in research assessment
+-   Section 4 - Assessing people responsibly using research metrics
+-   Section 5 - Using metrics responsibly in personal applications or evaluations
