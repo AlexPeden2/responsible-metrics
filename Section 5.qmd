@@ -3,7 +3,7 @@ title: "Section 5"
 format: html
 ---
 
-## Using metrics responsibly in personal applications or evaluations
+## Using metrics responsibly in your own applications or evaluations
 
 In this section you will explore: 
 
