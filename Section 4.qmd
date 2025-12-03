@@ -55,4 +55,4 @@ Thank you for taking the time to complete this section.
 
 Complete further sections
 
--   Section 5 - Using metrics responsibly in personal applications or evaluations
+-   Section 5 - Using metrics responsibly in your own applications or evaluations
