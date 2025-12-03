@@ -52,7 +52,7 @@ website:
         
   back-to-top-navigation: true
   page-navigation: true  
-  page-footer: "Adapted by Alex Peden, University of Edinburgh from a module developed by Kate Lapage, Clare Hemmings and Lorrayne Smith @ University of Southampton Library and shared under a CC BY licence"
+  page-footer: "Adapted by Alex Peden @ University of Edinburgh from a module developed by Kate Lapage, Clare Hemmings and Lorrayne Smith @ University of Southampton Library and shared under a CC BY licence"
       
 format:
   html:
