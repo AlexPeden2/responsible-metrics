@@ -17,7 +17,7 @@ Research metrics are usually quantitative data that describe an aspect of a rese
 
 There are many different metrics each attempting to describe a different aspect of research. Metrics can look at one indiviudal research output, at all the outputs from a single researcher, or at the entire output of a department or University. Other metrics describe features of a publication venue, such as a journal. The majority of metrics primarily focus on research journal articles but there are metrics available for other research output types.
 
-When engaging with research metrics its important to focus on the question you are trying to answer, or the information you are trying to convey, so you can decide if using metrics will be useful or not.
+When engaging with research metrics its important to focus on the question you are trying to answer, or the information you are trying to convey, so you can decide if using metrics will be useful and accurate, or not.
 
 ### **Principles for responsible use of metrics**
 
@@ -32,10 +32,10 @@ You will need to consider what is appropriate for the assessment you are making,
 
 #### **Be Transparent** 
 
-Provide clear information on how any quantitative data will be used in decision making, how that data will be validated or checked by those being assessed, and how the data will be supported by qualitative informtion.
+Provide clear information on how any quantitative data will be used in decision making, how that data will be validated or checked by those being assessed, and how the data will be supported by qualitative information.
 Transparency in the use of research metrics means having an explanation in clear, simple language to ensure end-users understand the data used, its reliability and its limitations. 
 
-If you decide to use metrics, consider:
+If you decide to use metrics as part of your assessment process, consider:
 
 -   What metrics will be used? Can you apply these across your whole analysis or candidate pool? (if you can't, you shouldn't use these metrics)
 -   Where did the data come from? When was the data extracted? (data should come from the same sources on a similar date, particularly if you plan to compare any aspect.  Citations accrue all the time so different       extraction dates can undermine comparison)
@@ -49,14 +49,11 @@ Those leading assessment processes must ensure that the evaluation process, incl
 
 When assessing a person, research metrics should not be used as the sole source of information. Metrics should only be used when necessary and should be used in conjunction with qualitative information (e.g. expert testimony or a narrative description of the significance of a research output). Use a 'basket of metrics' rather than focusing on one data type.
 
-Be aware that individuals are unlikely to be directly comparable due to their career path or circumstances. e.g. length of career, career breaks, part-time working, personal circumstances
--   E.g. you should not compare an early career researcher with a researcher who has a 20 year track record in academic research
+Be aware that individuals are unlikely to be directly comparable due to their career path or circumstances. e.g. length of career, career breaks, part-time working, personal circumstances. You should not compare an early career researcher with a researcher who has a 20 year track record in academic research for example.
 
-You should avoid using metrics to make comparisons across diverse groups of individuals
--   i.e. don't use one metric to compare across different research disciplines, if you are comparing across similar sub-disciplines use a normalised metric (e.g. field weighted citation impact)
+You should avoid using metrics to make comparisons across diverse groups of individuals. For example don't use one metric to compare across different research disciplines, if you are comparing across similar sub-disciplines use a normalised metric (e.g. field weighted citation impact).
 
-Each metric has a specific use, make sure you understand what the metric is telling you before using it
--   For example, you should not use a metric that describes an aspect of a whole journal catalog (e.g. Impact Factor) to infer the quality of an individual output or one person’s contribution to an output.
+Each metric has a specific use, make sure you understand what the metric is telling you before using it. For example, you should not use a metric that describes an aspect of a whole journal catalogue (e.g. Impact Factor) to infer the quality of an individual output or one person’s contribution to an output.
 
 #### **Contextualise** 
 
