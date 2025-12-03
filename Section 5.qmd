@@ -77,7 +77,7 @@ The statement could be made even better by stating the date you checked the numb
 
 *\[citation of paper\] is my top performing paper according to Scopus on \[date you checked\] it has been cited 150 times and has a field-weighted citation index of 4.3 (1 being average). It has been cited by \[policy document\]. Following its publication I was invited to join a government working group to explore improving government policy in this area.*  
 
-Why this is good – You’ve given a source and date for your metrics, you've used multiple metrices and you’ve used a normalised metric which makes for a fairer comparison. You’ve explained that your output has led to impact. 
+Why this is good? You’ve given a source and date for your metrics, you've used multiple metrices and you’ve used a normalised metric which makes for a fairer comparison. You’ve explained that your output has led to impact. 
 
 ### **How to identify your 'best' publications** 
 
