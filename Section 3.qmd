@@ -96,9 +96,9 @@ As we don’t know the source or date the metrics above were extracted, we need 
 -   Field Weighted Citation Impact: 1.52
 -   Plum X - Captures: 9
 
-This tells me that although *Paper X* has over double the amount of citations, the two papers have very similar Field Weighted Citation Impacts and captures so both papers have about the same amount of disciplinary impact. So *Paper X* isn’t doing much "better" than *Paper Y* at all.
+This tells us that although *Paper X* has over double the amount of citations, the two papers have very similar Field Weighted Citation Impacts and captures so both papers have about the same amount of disciplinary impact. *Paper X* isn’t doing much "better" than *Paper Y* at all.
 
-As you can see from this example, citation numbers don’t always give you the full picture. You need to consider other factors, such as publication date, discipline, number of researchers in the field and journal reach. The question you ask, how you define "good" or "impactful" will determine the answer you get. So, take your time and don't make snap decisions. It's likely that in this example asking the author to provide their own statement describing the significance and rigour of these two papers would be more useful to the assessment than the quantitative analysis.
+As you can see from this example, citation numbers don’t always give you the full picture. You need to consider other factors, such as publication date, discipline, number of researchers in the field and journal reach. The question you ask, how you define "good" or "impactful" will determine the answer you get. So, take your time to consider what it is you need to understand before embarking on an analysis of metrics. It's likely that in this example asking the author to provide their own statement describing the significance and rigour of these two papers would be more useful to the assessment than the quantitative analysis.
 
 ### **What’s next?**
 
