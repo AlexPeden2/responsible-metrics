@@ -17,15 +17,15 @@ Research assessment is any process where you are making a judgement on the quali
 
 ### **Why is responsible research assessment important?**
 
-Research metrics, or bibliometrics, represent the quantification of publications and their characteristics.  They are a prominent feature of our research eco-system including in research assessment processes.  
+Research metrics, or bibliometrics, are a statistical analysis of aspects of research publications and their characteristics.  They are a prominent feature of our research eco-system including in research assessment processes.  
 
-When used appropriately metrics can provide valuable insights into aspects of research output. Unfortunately, research metrics are often used uncritically which can cause problems for researchers and research.
+When used appropriately metrics can provide valuable insights into aspects of research output. Unfortunately, research metrics are often used uncritically or inappropriately which can cause problems for researchers and research.
 
 Many research metrics have become a shorthand for research quality, but they aren't based on the quality of the actual research itself.  They are a feature of who funded the research, or where it was published, or how many other people are researching a topic.  It isn't always clear how these metrics have been calculated or what each metric actually represents to most people.
 
-Relying on research metrics to make decisions about individuals and their research isn't fair to the individual, or the work undertaken to produce the research, and can cause us to overlook important or impactful work.  There is evidence that inappropriate use of metrics has influenced our research cultures negatively.
+Relying on research metrics to make decisions about individuals and their research is a risky way to assess them, it isn't fair to the individual, or the work undertaken to produce the research, and can cause us to overlook important or impactful work.  There is evidence that inappropriate use of metrics has influenced our research cultures negatively.
 
-Making sure peer-review is fore-most in our assessment of research and researchers is a route to undertaking responsible research assessment and improving our research cultures.
+Making sure we engage with the aim of the assessment we are undertaking and draw on a variety of information including peer review and our own judgement, is a route to undertaking responsible research assessment and improving our research cultures.
 
 ### **International collaborations to improve research assessment**
 
@@ -43,7 +43,7 @@ DORA also supports the idea that research should be assessed on its own merits a
 
 [**CoARA: Coalition for Advancing Research Assessment**](https://www.coara.org/){target="_blank"} 
 
-The CoARA initiative was launched in January 2022 and builds on DORA and other initiatives. Its core principle is "that in the assessment of research, researchers and research organisations needs to recognise that diverse outputs, practices and activities contribute to the quality and impact of research. This requires basing assessment primarily on qualitative judgement for which peer review is central, supported by the responsible use of quantitative indicators" (metrics). 
+The CoARA initiative was launched in January 2022 and builds on DORA and other initiatives. Its core principle is "that in the assessment of research, researchers and research organisations needs to recognise that diverse outputs, practices and activities contribute to the quality and impact of research. This requires basing assessment primarily on qualitative judgement for which peer review is central, supported by the responsible use of quantitative indicators". 
 
 The University of Edinburgh is a signatory of, and committed to, both DORA and CoARA.
 
