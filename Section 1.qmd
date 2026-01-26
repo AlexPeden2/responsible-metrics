@@ -17,7 +17,7 @@ Research assessment is any process where you are making a judgement on the quali
 
 ### **Why is responsible research assessment important?**
 
-Research metrics, or bibliometrics, are a statistical analysis of aspects of research publications and their characteristics.  They are a prominent feature of our research eco-system including in research assessment processes.  
+Research metrics, or bibliometrics, are a statistical analysis of aspects of research publications and their characteristics.  They are a prominent feature of our research eco-system particularly in research assessment processes.  
 
 When used appropriately metrics can provide valuable insights into aspects of research output. Unfortunately, research metrics are often used uncritically or inappropriately which can cause problems for researchers and research.
 
@@ -37,7 +37,7 @@ Below are summaries of two key international initiatives University of Edinburgh
 
 DORA is a set of principles for responsible research assessment that were published in 2012. They are designed to ensure that the quality and impact of research outputs are “measured accurately and evaluated wisely”.
 
-DORA focuses particularly on the use of journal-based metrics. Its key tenet is to “do not use journal-based metrics, such as Journal Impact Factors (JIFs), as surrogate measures of the quality of individual research articles, to assess an individual scientist’s contributions, or in hiring, promotion, or funding decisions”. 
+DORA focuses particularly on the use of journal-based metrics. Its key tenet is “do not use journal-based metrics, such as Journal Impact Factors (JIFs), as surrogate measures of the quality of individual research articles, to assess an individual scientist’s contributions, or in hiring, promotion, or funding decisions”. 
 
 DORA also supports the idea that research should be assessed on its own merits and not influenced by the reputation of the journal in which it has been published. 
 
