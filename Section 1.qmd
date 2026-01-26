@@ -31,7 +31,7 @@ Making sure we engage with the aim of the assessment we are undertaking and draw
 
 There are several international collaborations aiming to improve research assessment and encourage researchers and institutions to reflect on how they use research metrics in these processes.  The University has outlined its approach in its [statement on responsible use of research metrics](https://www.ed.ac.uk/sites/default/files/2025-02/Responsible%20Research%20Metrics%20Statement.pdf){target="_blank"} which states our commitment to the principles of DORA, CoARA and the [Leiden Manifesto](<https://doi.org/10.1038/520429a>){target="_blank"}. 
 
-Below are summaries of two key international initiatives Univeristy of Edinburgh is a signatory of: 
+Below are summaries of two key international initiatives University of Edinburgh is a signatory of: 
 
 [**DORA: Declaration of Research Assessment**](https://sfdora.org/about-dora/){target="_blank"} 
 
