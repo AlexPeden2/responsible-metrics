@@ -72,7 +72,7 @@ This is a very simple assessment and looking at the data we can determine that *
 -   It could be because *paper X* was published in 2021, 2 years before *paper Y*, and the citations have had more time to accumulate
 -   It could be that *paper X* is published open access while *paper Y* was not, so *X* has attracted a wider audience
 -   It could be that *paper Y* is on a topic where there are fewer other researchers or research groups in that field, therefore fewer people that would cite the work. 10 citations could represent a citation from every other research group in that field and therefore might represent a significantly impactful publication
--   *Paper X* could articulate a controversial approach where there is not consensus in the discapline, citations may not be supportive of the content of the paper
+-   *Paper X* could articulate a controversial approach where there is not consensus in the discipline, citations may not be supportive of the content of the paper
 -   It could be that one paper was published in a society journal, while the other was published in a multidisciplinary journal, explaining a difference in attention
 
 ***Does "better" mean more impact in the discipline?***
