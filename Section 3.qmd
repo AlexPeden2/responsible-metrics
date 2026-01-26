@@ -35,7 +35,7 @@ Research metrics could support your understanding of part of these questions, bu
 
 **Can I access relevant or appropriate data?​**
 
-The University has access to a number of databases(https://library.ed.ac.uk/finding-resources/library-databases) you can use to access data and prepare an analysis. You may be asked to use a particular source to obtain your metrics, this might be so the requestor can ensure that the metrics they are collecting are as comparable as possible. Sometimes you might need to use a particular source because of the specific data available from that source or because of the functions that the source provides.
+The University has access to a number of [databases](https://library.ed.ac.uk/finding-resources/library-databases){target="_blank"} you can use to access data and prepare an analysis. You may be asked to use a particular source to obtain your metrics, this might be so the requestor can ensure that the metrics they are collecting are as comparable as possible. Sometimes you might need to use a particular source because of the specific data available from that source or because of the functions that the source provides.
 
 **How will I use the data?​**
 
