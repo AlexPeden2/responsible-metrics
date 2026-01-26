@@ -61,7 +61,7 @@ Let’s work it through with some hypothetical data.
 
 *Y. A.N.Other (2023) Sample paper titled Y, Journal of Stuff, Citation count: 10*
 
-**First - what do we mean by better?**
+**First, what do we mean by better?**
 
 To begin with, we need to decide how we are quantifying "better". Once this definition is decided we can source information to do a comparison.
 
@@ -71,7 +71,7 @@ This is a very simple assessment and looking at the data we can determine that *
 
 -   It could be because *paper X* was published in 2021, 2 years before *paper Y*, and the citations have had more time to accumulate
 -   It could be that *paper X* is published open access while *paper Y* was not, so *X* has attracted a wider audience
--   It could be that *paper Y* is on a topic where there are fewer other researchers or research groups in that field, therefore fewer people that would cite the work. 10 citations could represent a citation from every other research group in that field and therefore might represent a significantly impactful publication
+-   It could be that *paper Y* is on a topic where there are fewer other researchers or research groups in that field, therefore fewer people that would cite the work. 10 citations could represent a citation from every other research group in that field and therefore might represent a highly impactful publication
 -   *Paper X* could articulate a controversial approach where there is not consensus in the discipline, citations may not be supportive of the content of the paper
 -   It could be that one paper was published in a society journal, while the other was published in a multidisciplinary journal, explaining a difference in attention
 
@@ -82,7 +82,7 @@ If we are looking at disciplinary impact we cannot tell the impact of a paper fr
 As we don’t know the source or date the metrics above were extracted, we need go to a database like Scopus and look at each paper to find more data. There we could find the citation count, the Field Weighted Citation Impact and Plum X metrics.
 
 -   Field Weighted Citation Impact is a normalised metric that allows us to compare papers of different ages and disciplines - 1 is considered normal or average
--   Plum X metrics are an example of an altmetrics. These look at social media engagement, such as likes and shares, and engagement in platforms like Mendeley
+-   Plum X metrics are an example of altmetrics. These look at social media engagement, such as likes and shares, and engagement in platforms like Mendeley
 
 *A.N.Other (2021) Sample paper titled X, Journal of Things,*
 
