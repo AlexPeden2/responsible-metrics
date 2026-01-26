@@ -43,7 +43,7 @@ If you decide to use metrics as part of your assessment process, consider:
     -   data should come from the same sources on a similar date, particularly if you plan to compare any aspect.  Citations accrue all the time so different extraction dates can undermine comparison.
 -   How will your chosen metrics be support by qualitative information? 
 
-#### **Communicate your Evaluation Method** 
+#### **Communicate your Evaluation Methods** 
 
 Those leading assessment processes must ensure that the evaluation process, including any additional information to be used not provided by the candidate, is clearly communicated in advance to those being assessed.  Any quantitative indicator that will be used from either internal or external sources should be communicated, accessible, validatable and open to scrutiny by those being assessed.
 
