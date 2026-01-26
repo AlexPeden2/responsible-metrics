@@ -37,8 +37,10 @@ Transparency in the use of research metrics means having an explanation in clear
 
 If you decide to use metrics as part of your assessment process, consider:
 
--   What metrics will be used? Can you apply these across your whole analysis or candidate pool? (if you can't, you shouldn't use these metrics)
--   Where did the data come from? When was the data extracted? (data should come from the same sources on a similar date, particularly if you plan to compare any aspect.  Citations accrue all the time so different       extraction dates can undermine comparison)
+-   What metrics will be used? Can you apply these across your whole analysis or candidate pool?
+    -   if you can't, you shouldn't use these metrics
+-   Where did the data come from? When was the data extracted?
+    -   data should come from the same sources on a similar date, particularly if you plan to compare any aspect.  Citations accrue all the time so different extraction dates can undermine comparison.
 -   How will your chosen metrics be support by qualitative information? 
 
 #### **Communicate your Evaluation Method** 
