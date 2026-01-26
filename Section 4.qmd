@@ -14,26 +14,26 @@ In this section you will explore:
 
 Research metrics are a quantitative snapshot of how some of a researcher’s research outputs have performed. There are multiple sources of metrics and many different types of metrics for different types of analysis.
 
-Using metrics when assessing research outputs can be a useful addition to a process but they are a limited measure of a researcher's overall contribution to their discipline or institution. Metrics should never be used as the sole assessment criteria of data set, any evaluation of a researcher's performance should not be solely based on a set of numbers that don't fully reflect their overall contribution. Their expert judgment and knowledge of their own research are invaluable and should not be overshadowed by quantitative measures. A narrative approach can more accurately reflect the full breadth and depth of a researcher's impact.
+Using metrics when assessing research outputs can be a useful addition to a process but they are a limited measure of a researcher's overall contribution to their discipline or institution. Metrics should never be used as the sole assessment criteria, any evaluation of a researcher's performance should not be solely based on a set of numbers that don't fully reflect their overall contribution. Their expert judgment and knowledge of their own research are invaluable and should not be overshadowed by quantitative measures. A narrative approach can more accurately reflect the full breadth and depth of a researcher's impact.
 
 ### **Responsible Metrics in Assessment**
 
-If you research metrics could help you in your decision-making process there are several things you can do to make it fairer for researchers and easier for you to compare the results.
+If you think research metrics could help you in your decision-making process there are several things you can do to make it both fairer for the researchers being assessed, and easier for you to compare the results.
 
 -   Set a time frame e.g. 5 years,
     -   restricting to a time frame makes it easier to compare academics at different career stages or researchers who might have had a career break
 -   Define what you mean by ‘best’ or ‘top’ publication(s) so researchers can focus their statements/evidence and ensure that you are comparing the same thing
-    -   asking for an annotated publication list where a candidate identifies their most significant outputs and explains their significance can be a useful approach here
+    -   asking for an annotated publication list, where a candidate identifies their most significant outputs and explains their significance, can be a useful approach here
 -   Specify a particular source to use or a specific metrics to use
     -   Some metrics are software/database specific, some of which are available via subscription only and therefore may not be available to all candidates
--   Ask your research office to provide metrics for the group of candidates so that everyone will be assessed in the same way at the same time
+-   Ask your research support team to provide metrics for the group of candidates so that everyone will be assessed in the same way at the same time
 
 ### **Limitations of metrics and things to be aware of**
 
 -   Not all research outputs will be indexed, and therefore might not be included in the calculation of a research metric
     -   Typically journal articles are indexed, and some books may be indexed, smaller publishers may not index their journals
     -   STEM journals are more likely to be indexed than Arts, Humanities and Social Sciences journals
-    -   It can take up to six months from publication for articles to be indexed
+    -   It can take up to six months from publication date for articles to be indexed
     -   Content may have been wrongly affiliated to a researcher or their content wrongly associated with someone else
 -   Citations take a long time to accrue, this favours older papers over new papers, and those that have been publishing longer over those earlier in their career
 -   Lack of context:
@@ -43,7 +43,7 @@ If you research metrics could help you in your decision-making process there are
 -   Researchers may use flawed metrics such as h-index, as a proxy of quality and not a true reflection of contribution
 -   Researchers may use metrics incorrectly or use the wrong type of metric for the assessment they are making; for example using a journal level metric like impact factor to infer the quality onto their article
 
-The key to using metrics in an assessment of people is to be consistent and fair. If you are doubts about the consistency or fairness of a particular metric or analysis, don't use it. 
+The key to using metrics in an assessment of people is to be consistent and fair. If you have doubts about the consistency or fairness of a particular metric or analysis, don't use it. 
 
 If you are not a specialist in a subject area you may not have the contextual knowledge to know if the citation volume given is high, low or expected. In some disciplines 15 citations is very high whereas in others it is more typical. Citation rates can vary even between closely related sub-disciplines.
 
