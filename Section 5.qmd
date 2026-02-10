@@ -10,7 +10,6 @@ In this section you will explore: 
 -   What you can do if you've been asked to review metrics as part of an assessment process
 -   What you can do if you've been asked to include metrics in an application
 -   How to get metrics if you need them
--   Limitation of metrics
 -   Guidance on how to use metrics
 
 ### What do I do if I've been asked to review metrics as part of an application?
