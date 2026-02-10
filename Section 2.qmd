@@ -17,7 +17,7 @@ Research metrics are usually quantitative data that describe an aspect of a rese
 
 There are many different metrics each attempting to describe a different aspect of research. Metrics can look at one indiviudal research output, at all the outputs from a single researcher, or at the entire output of a department or University. Other metrics describe features of a publication venue, such as a journal. The majority of metrics primarily focus on research journal articles but there are metrics available for other research output types.
 
-When engaging with research metrics its important to focus on the question you are trying to answer, or the information you are trying to convey, so you can decide if using metrics will be useful and accurate, or not.
+When engaging with research metrics it's important to focus on the question you are trying to answer, or the information you are trying to convey, so you can decide if using metrics will be useful and accurate, or not.
 
 ### **Principles for responsible use of metrics**
 
