@@ -14,7 +14,7 @@ In this this section you will explore:
 
 If you are considering using research metrics as part of your assessment process it is important you define clearly the overall question that you are trying to answer. Defining your question or task clearly will help you design the assessment process and understand if research metrics can positively support that decision making process or not.
 
-Once you have your overall question or task, it can be useful to break it down further by considering these apsects:
+Once you have your overall question or task, it can be useful to break it down further by considering these aspects:
 
 -   What specifically do I want to understand?​
 -   Will quantitative data help me reach this understanding? 
@@ -25,7 +25,7 @@ Once you have your overall question or task, it can be useful to break it down f
 
 **What specifically do I want to understand?​**
 
-First of all you need to think carefully about what it is you are trying to understand, what is the question you are trying to answer. Once you've decided on this you can then identify information that might help you to answer that question, and where in an assessment process it would be most useful to request that information from applicants. You can ask people to provide this information in their application e.g. a publication list, or to undertake a task as part of the procecss e.g. a presentation or a research funding plan. If you decide undertaking your own analysis involving research metrics might be useful to the process you can identify sources of data that could be helpful.
+First of all you need to think carefully about what it is you are trying to understand, what is the question you are trying to answer. Once you've decided on this you can then identify information that might help you to answer that question, and where in an assessment process it would be most useful to request that information from applicants. You can ask people to provide this information in their application e.g. a publication list, or to undertake a task as part of the procecss e.g. a presentation or a research funding plan. If you decide undertaking your own analysis involving research metrics might be useful to the process, you can identify sources of data that could be helpful.
 
 **Will quantitative data help me reach this understanding?​**
 
